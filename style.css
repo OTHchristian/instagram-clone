@@ -1,0 +1,67 @@
+.container{
+    padding-top: 15px;
+    text-align: center;
+    width: 350px;
+    height: 409.98px;
+}
+.section1{
+    height: auto;
+    border: 1px solid rgba(0, 0, 0, 0.164);
+    background-color: #FFFF;
+}
+.btn-primary{
+    width: 100%;
+    background-color: rgba(0, 102, 255, 0.616);
+}
+.logo{
+    background-image: url('https://static.cdninstagram.com/rsrc.php/v3/yM/r/8n91YnfPq0s.png'); 
+    background-position: 0px -52px; 
+    background-size: auto; width: 175px; 
+    height: 51px; 
+    background-repeat: no-repeat; 
+    display: inline-block;
+}
+.middle{
+    width:19px;
+    padding-left: 0px;
+    padding-right: 4px;
+    text-align: center;
+}
+.left{
+    width:47.06%;
+}
+.right{
+    width:47.06%;
+}
+.face{
+    padding-left: 49px;
+    padding-right: 0px;
+    width: 16px;
+    height: 16px;
+}
+.textface{
+    width: 80%;
+    padding-left:0px;
+}
+a{
+    text-decoration: none;
+}
+input::placeholder{
+    font-size: 14px;
+}
+._aa5q{
+    width:115px;
+    height: 40px;
+}
+.form-control{
+    background-color: #FAFAFA;
+}
+@media(max-width: 676px){
+    .container{
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+    .section1{
+        border:transparent;
+    }
+}
